@@ -1,0 +1,16 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "Shopping",
+      "category": "Shopping",
+      "date": "1/12/2022"
+    },
+    {
+      "id": 2,
+      "title": "Reading",
+      "category": "Study",
+      "date": "1/12/2022"
+    }
+  ]
+}
